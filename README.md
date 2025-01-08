@@ -17,6 +17,12 @@ MVP
 
 MoodMosaic est une application interactive qui crée une synergie entre vos émotions, la musique et les couleurs. Elle offre une expérience immersive où chaque état émotionnel se traduit par une palette de couleurs harmonieuse et une playlist personnalisée.
 
+![Capture d’écran du 2025-01-08 08-29-24](https://github.com/user-attachments/assets/702c839c-d1a2-40e8-9352-155e5af5c317)
+
+![Capture d’écran du 2025-01-08 08-29-45](https://github.com/user-attachments/assets/f32773b3-ea60-43e3-96d3-1c6c2010f135)
+
+
+
 ## ✨ Fonctionnalités
 
 ### 🎯 MVP (Version actuelle)
