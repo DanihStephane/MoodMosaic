@@ -96,8 +96,8 @@ npm run dev
 
 ## 📝 Licence
 
-free : https://github.com/DanihStephane
-https://www.linkedin.com/in/danihstephane
+- free : https://github.com/DanihStephane
+- network : https://www.linkedin.com/in/danihstephane
 
 ---
 
